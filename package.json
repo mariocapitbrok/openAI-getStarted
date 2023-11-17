@@ -1,0 +1,17 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "OpenAI GetStarted Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/openai-test.js"
+  },
+  "author": "mariocapitbrok",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.19.0"
+  }
+}
